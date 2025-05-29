@@ -3,7 +3,7 @@
 $host = 'localhost'; // server
 $username = 'root';
 $password = "";
-$database = 'asset'; //Database Name
+$database = 'easet'; //Database Name
 // establishing connection
 $conn = mysqli_connect($host,$username,$password,$database);
 // for displaying an error msg in case the connection is not established
