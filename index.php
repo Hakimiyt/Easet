@@ -17,7 +17,7 @@
       background-color: #3366CC;
       padding: 15px;
     }
-
+/* d */
     .banner {
       background: url('img/banner.png') center center no-repeat;
       background-size: cover;
