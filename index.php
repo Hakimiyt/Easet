@@ -14,7 +14,7 @@
     
 
     nav.navbar {
-      background-color: #C4D7FF;
+      background-color: #3366CC;
       padding: 15px;
     }
 
@@ -81,7 +81,7 @@
     }
 
     .footer {
-      background-color: #C4D7FF;
+      background-color: #3366CC;
       padding: 15px;
       text-align: center;
       margin-top: 40px;
