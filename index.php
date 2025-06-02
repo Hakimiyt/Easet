@@ -111,7 +111,7 @@
         <span class="ms-3 fw-bold fs-5 text-dark">Sistem Aduan Kerosakan Aset</span>
       </a>
       <div class="ms-auto">
-        <a class="btn btn-outline-dark" href="" target="_blank"><i class="fas fa-home"></i> Laman Utama</a>
+        <a class="btn btn-outline-dark" href="https://www.ilpkls.gov.my/" target="_blank"><i class="fas fa-home"></i> Laman Utama</a>
       </div>
     </div>
   </nav>
